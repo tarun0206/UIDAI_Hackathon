@@ -1,0 +1,5 @@
+flask
+googletrans
+pandas
+flask_cors
+Flask-Cors
